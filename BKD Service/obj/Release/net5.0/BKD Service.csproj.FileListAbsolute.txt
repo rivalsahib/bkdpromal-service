@@ -1,0 +1,148 @@
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\appsettings.Development.json
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\appsettings.json
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\BKD Service.exe
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\BKD Service.deps.json
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\BKD Service.runtimeconfig.json
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\BKD Service.runtimeconfig.dev.json
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\BKD Service.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ref\BKD Service.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\BKD Service.pdb
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Net.Http.Formatting.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Web.Http.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.Bcl.HashCode.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.CodeAnalysis.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.Data.SqlClient.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.Identity.Client.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Newtonsoft.Json.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Newtonsoft.Json.Bson.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\NuGet.Frameworks.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Composition.AttributedModel.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Composition.Convention.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Composition.Hosting.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Composition.Runtime.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Composition.TypedParts.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Runtime.Caching.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\win-arm64\native\sni.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\win-x64\native\sni.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\win-x86\native\sni.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.csproj.AssemblyReference.cache
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.AssemblyInfoInputs.cache
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.AssemblyInfo.cs
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\staticwebassets\BKD Service.StaticWebAssets.Manifest.cache
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\staticwebassets\BKD Service.StaticWebAssets.xml
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\scopedcss\bundle\BKD Service.styles.css
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.RazorTargetAssemblyInfo.cache
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.csproj.CopyComplete
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\ref\BKD Service.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.pdb
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\obj\Release\net5.0\BKD Service.genruntimeconfig.cache
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\RestSharp.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Text.Encodings.Web.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\System.Text.Json.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Hangfire.AspNetCore.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Hangfire.Core.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Hangfire.NetCore.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\Hangfire.SqlServer.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\ca\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\de\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\es\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\fa\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\fr\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\nb\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\nl\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pt-BR\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pt-PT\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\pt\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\sv\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\tr-TR\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh-TW\Hangfire.Core.resources.dll
+D:\Visual Studio 2019\Projects\BKD Service\BKD Service\bin\Release\net5.0\zh\Hangfire.Core.resources.dll
